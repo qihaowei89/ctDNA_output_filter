@@ -1,0 +1,2 @@
+#chr	pos_start	pos_end	ref	alt	Gene	Type	CDSChange	exon	sequence	AA	X__1	chr	pos	ref.1	alt.1	d
+7	55249071	55249071	C	T	EGFR	nonSynonymous_Substitution	NM_005228.3	exon20	c.2369C>T	p.T790M	NA	7	55249071	C	T	DP=4;I16=1,0,1,0,69,4761,71,5041,50,2500,42,1764,12,144,25,625;QS=0.543478,0.456522;SGB=-0.379885;RPB=1;MQB=1;BQB=1;MQ0F=0
